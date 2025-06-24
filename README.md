@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Marisetty</h1>
-<h3 align="center">A enthusiastic AI Engineer studying at UT Dallas</h3>
+<h3 align="center">An enthusiastic AI Engineer studying at UT Dallas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sainikhil1611&label=Profile%20views&color=0e75b6&style=flat" alt="sainikhil1611" /> </p>
 
