@@ -24,12 +24,9 @@
 ```python
 class NikhilMarisetty:
     def __init__(self):
-        self.role        = "AI Engineer"
         self.university  = "UT Dallas"
-        self.focus       = ["Machine Learning", "Deep Learning", "Full Stack Dev"]
+        self.focus       = ["Machine Learning", "Deep Learning", "Robotics"]
         self.languages   = ["Python", "JavaScript/TypeScript", "Java", "C++", "SQL"]
-        self.currently   = "Building intelligent systems that matter"
-        self.fun_fact    = "I debug ML models the way others debug code — with patience and coffee ☕"
 
     def say_hi(self):
         print("Thanks for stopping by! Let's build something amazing together 🚀")
