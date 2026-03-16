@@ -27,7 +27,7 @@ class NikhilMarisetty:
         self.role        = "AI Engineer"
         self.university  = "UT Dallas"
         self.focus       = ["Machine Learning", "Deep Learning", "Full Stack Dev"]
-        self.languages   = ["Python", "JavaScript", "Java", "C++", "TypeScript"]
+        self.languages   = ["Python", "JavaScript/TypeScript", "Java", "C++", "SQL"]
         self.currently   = "Building intelligent systems that matter"
         self.fun_fact    = "I debug ML models the way others debug code — with patience and coffee ☕"
 
